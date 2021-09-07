@@ -1,4 +1,3 @@
-service: tour
 runtime: go116
 main: ./tour
 
