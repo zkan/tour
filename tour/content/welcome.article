@@ -83,7 +83,6 @@ https://golang.org
 #appengine:
 #appengine: ซึ่งโปรแกรมที่รันบนนั้นจะติดข้อจำกันบางประการ:
 #appengine:
-#appengine: - In the playground the time begins at 2009-11-10 23:00:00 UTC (determining the significance of this date is an exercise for the reader). This makes it easier to cache programs by giving them deterministic output.
 #appengine: - เวลาใน playground จะเริ่มต้นที่ 2009-11-10 23:00:00 UTC (การตัดสินใจให้ความสำคัญกับวันนี้ยกให้เป็นการบ้านของผู้อ่าน) ซึ่งมันช่วยให้แคชโปรแกรมง่ายขึ้นด้วยการกำหนดค่านี้ไว้
 #appengine:
 #appengine: - There are also limits on execution time and on CPU and memory usage, and the program cannot access external network hosts.
