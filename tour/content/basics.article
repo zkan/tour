@@ -39,9 +39,6 @@ This program is using the packages with import paths `"fmt"` and `"math/rand"`.
 
 * Exported names
 
-In Go, a name is exported if it begins with a capital letter.
-For example, `Pizza` is an exported name, as is `Pi`, which is exported from
-the `math` package.
 ใน Go การตั้งชื่อมีความสำคัญ ถ้าชื่อขึ้นต้นด้วยตัวพิมพ์ใหญ่ ตัวอย่างเช่น `Pizza`
 จะถือว่าเป็นชื่อสามารถถูกใช้จากภายนอกได้ เหมือนกับ `Pi` ที่ถูกส่งออกมาจากแพ็คเกจ `math`
 
@@ -168,7 +165,6 @@ zero value คือ:
 
 * Type conversions
 
-The expression `T(v)` converts the value `v` to the type `T`.
 การแสดงสัญลักษณ์ `T(v)` หมายถึงการแปลงค่า `v` ไปสู่ type `T`
 
 การแปลงค่าตัวเลข:
