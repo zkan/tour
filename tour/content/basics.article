@@ -17,7 +17,6 @@ https://golang.org
 #appengine: *หมายเหตุ:* สภาพแวดล้อมที่โปรแกรมเหล่านี้ทำงานนั้น ถูกกำหนดขึ้นอย่างตั้งใจ
 #appengine: นั่นทำให้แต่ละครั้งที่โปรแกรมตัวอย่างนี้ทำงาน `rand.Intn` จะคืนเลขเดิมมาเสมอ
 #appengine:
-#appengine: (To see a different number, seed the number generator; see [[https://golang.org/pkg/math/rand/#Seed][`rand.Seed`]]
 #appengine: (ถ้าอยากเห็นค่าอื่น ต้องมีตัวสร้าง seed; ดูได้ที่ [[https://golang.org/pkg/math/rand/#Seed][`rand.Seed`]]
 #appengine: เวลาใน playground ก็เป็นค่าคงที่ ดังนั้นคุณต้องอะไรอย่างอื่นมาทำ seed แทนด้วย)
 

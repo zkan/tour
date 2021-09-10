@@ -70,7 +70,7 @@ https://golang.org
 #appengine:
 #appengine: มันจะเกิดไบนารี `tour` ขึ้นในไดเร็คทอรี่ `bin` ใน
 #appengine: [[https://golang.org/cmd/go/#hdr-GOPATH_and_Modules][GOPATH]]
-#appengine: เมื่อคุณรันโปรแกรม tour มันจะเปิดเบาวเซอร์แล้วแสดงทัวร์ในเวอชั่นบนเครื่องขึิ้นมา
+#appengine: เมื่อคุณรันโปรแกรม tour มันจะเปิดเบาวเซอร์แล้วแสดงทัวร์ในเวอชั่นบนเครื่องขึ้นมา
 #appengine:
 #appengine: และแน่นอนว่าคุณก็ยังใช้ทัวร์บนเว็บนี้ต่อได้เช่นกัน
 
@@ -85,7 +85,6 @@ https://golang.org
 #appengine:
 #appengine: - เวลาใน playground จะเริ่มต้นที่ 2009-11-10 23:00:00 UTC (การตัดสินใจให้ความสำคัญกับวันนี้ยกให้เป็นการบ้านของผู้อ่าน) ซึ่งมันช่วยให้แคชโปรแกรมง่ายขึ้นด้วยการกำหนดค่านี้ไว้
 #appengine:
-#appengine: - There are also limits on execution time and on CPU and memory usage, and the program cannot access external network hosts.
 #appengine: - นอกจากนี้ยังจำกัดเวลาในการดำเนินการ และจำกัดการใช้ CPU และหน่วยความจำ รวมถึงไม่สามารถเข้าถึงเน็ตเวิร์คภายนอกได้เลย
 #appengine:
 #appengine: playground ใช้ Go เวอร์ชั่นเสถียรตัวล่าสุดเสมอ
